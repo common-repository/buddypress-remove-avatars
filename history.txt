@@ -1,0 +1,17 @@
+Version 0.2.2 (January 31, 2010)
+-------------------------------------------
+- Removed "Change Avatar" link from backend admin menu (via php)
+- Removed "Change Avatar" from $bp global and removed applicable css/js coverups
+
+Version 0.2.1 (January 27, 2010)
+-------------------------------------------
+- Removed "Change Avatar" link from admin menu (via JS)
+
+Version 0.2 (January 9, 2010)
+-------------------------------------------
+- Added check for buddypress version (1.1 vs 1.2)
+- Added BP 1.2 stylesheet
+
+Version 0.1 (January 6, 2010)
+-------------------------------------------
+- Initial Release

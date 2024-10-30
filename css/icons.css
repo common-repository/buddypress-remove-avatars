@@ -1,0 +1,25 @@
+
+#bp-nav li a {
+	background-image:none;
+}
+#userbar ul#bp-nav li a,
+#userbar li a#user-groups,
+#userbar li a#my-groups {
+	padding-right: 10px !important;
+}
+
+
+#optionsbar ul#options-nav li a {
+	background-image:none;
+	padding-right:20px !important;
+}
+
+ul#activity-filter-links li#afilter-groups a,
+ul#activity-filter-links li#afilter-profile a,
+ul#activity-filter-links li#afilter-blogs a,
+ul#activity-filter-links li#afilter-clear a {
+	background-image:none;
+}
+ul#activity-filter-links li a {
+	padding-left: 8px;
+}

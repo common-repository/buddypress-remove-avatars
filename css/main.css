@@ -1,0 +1,23 @@
+
+.avatar {
+	display:none;
+}
+
+ul.item-list li .desc,
+div.group-forum div.item,
+ul#forum-topic-list li span.latest, 
+ul.item-list li .field-data,
+.wire-post-content {
+	margin-left:10px;
+}
+
+table#global-forum-topic-list div.poster-name,
+table#global-forum-topic-list div.object-name,
+.widget ul.item-list li .item,
+.activity-list li {
+	margin-left: 0;
+}
+
+.widget_bp_blogs_recent_posts_widget ul.item-list li .item {
+	margin-left: 0 !important;
+}

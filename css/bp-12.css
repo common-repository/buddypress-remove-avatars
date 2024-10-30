@@ -1,0 +1,19 @@
+
+form#whats-new-form h5,
+form#whats-new-form #whats-new-content,
+div#sidebar div.item-meta,
+div#sidebar div.item-content,
+.activity-list .activity-content {
+	margin-left:0;
+}
+form#whats-new-form #whats-new-content {
+	padding-left:0;
+}
+
+ul.item-list li div.item-desc {
+	margin-left:10px;
+}
+
+td.thread-avatar {
+	padding-left:0;
+}
